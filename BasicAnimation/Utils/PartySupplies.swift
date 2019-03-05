@@ -13,9 +13,11 @@ enum EmitShape {
     case point
 }
 
+/*
+ This class is to generate confetti to celeberate user success
+ */
 
 class PartySupplies: UIViewController {
-    
     
     static var confettiBurst:Bool = false
     
