@@ -21,7 +21,7 @@
 /* Begin PBXFileReference section */
 		2F5CD98F220D0FEC00DC00DB /* PartySupplies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartySupplies.swift; sourceTree = "<group>"; };
 		2F8095E42213926B00DDD409 /* LevelSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelSelectionViewController.swift; sourceTree = "<group>"; };
-		2F9F037521DB034700771384 /* BasicAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BasicAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F9F037521DB034700771384 /* 3 Little Shapes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "3 Little Shapes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F9F037821DB034700771384 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F9F037A21DB034700771384 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		2F9F037D21DB034700771384 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -90,7 +90,7 @@
 		2F9F037621DB034700771384 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2F9F037521DB034700771384 /* BasicAnimation.app */,
+				2F9F037521DB034700771384 /* 3 Little Shapes.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -125,7 +125,7 @@
 			);
 			name = BasicAnimation;
 			productName = BasicAnimation;
-			productReference = 2F9F037521DB034700771384 /* BasicAnimation.app */;
+			productReference = 2F9F037521DB034700771384 /* 3 Little Shapes.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -338,7 +338,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.shenba.BasicAnimation;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "3 Little Shapes";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -356,7 +356,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.shenba.BasicAnimation;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "3 Little Shapes";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
