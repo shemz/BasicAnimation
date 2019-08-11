@@ -1,53 +1,32 @@
 ## Privacy Policy
 
-Shenbagavalli Lakshmanan built the 3 Little Shapes app as an Open Source app. This SERVICE is provided by Shenbagavalli Lakshmanan at no cost and is intended for use as is.
+Shenbagavalli Lakshmanan built the 3 Little Shapes app as an Open Source app. This application is provided by Shenbagavalli Lakshmanan at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decides to use my application.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use my application, then you agree to the collection and use of information in relation to this policy. No personal information is collected, knowingly through our app. 
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at 3 Little Shapes unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
-We do not collect any personal information using our application. Users are not required to provide any personal information while using the app nor do we collect any personal user information, precise geographic location or device information.
+I do not collect any personal information using our application. Users are not required to provide any personal information while using the app nor do I collect any personal user information, precise geographic location or device information.
 
 Our app does not contain ad banners and it does not use any external APIs. 
 
-We may receive your email when your send a mail to our support email shenbagavalli.l@icloud.com. We will not share your email with any third party services nor will we use your email for commercial purposes. 
+I may receive your email when your send a mail to our support email shenbagavalli.l@icloud.com. I will not share your email with any third party services nor will I use your email for commercial purposes. 
 
 **Log Data**
 
-I want to inform you that whenever you use my Service, in case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
-**Cookies**
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-**Service Providers**
-
-I may employ third-party companies and individuals due to the following reasons:
-
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
-
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+I do not collect log data through our app. In case of a crash, information such as your device Internet Protocol ("IP") address, device name, operating system version and other related statistics will be sent to Apple that I can access if required. This will be done to improve our application and I will not share this data to any external parties.
 
 **Security**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-**Links to Other Sites**
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+I value your trust in providing me your Personal Information, thus I am striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 **Children’s Privacy**
 
-These Services can be used by cildren above 2 years of age. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+This application can be used by cildren above 2 years of age. I do not knowingly collect personally identifiable information from children. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided me with personal information, please contact me so that I will be able to do necessary actions.
 
 **Changes to This Privacy Policy**
 
