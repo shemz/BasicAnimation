@@ -70,7 +70,7 @@ class GameViewController: UIViewController, AlertScreenViewControllerDelegate {
     
     @IBAction func displayInitialScreen(_ sender: Any) {
         dismiss(animated: true, completion: nil)
-        navigationController?.popToRootViewController(animated: true)
+   //     navigationController?.popToRootViewController(animated: true)
     }
     
     @IBAction func refreshLevel(_ sender: Any) {
