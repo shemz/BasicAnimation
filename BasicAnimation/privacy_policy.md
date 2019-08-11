@@ -10,13 +10,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+We do not collect any personal information using our application. Users are not required to provide any personal information while using the app nor do we collect any personal user information, precise geographic location or device information.
 
-The app does use third party services that may collect information used to identify you.
+Our app does not contain ad banners and it does not use any external APIs. 
 
-Link to privacy policy of third party service providers used by the app
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+We may receive your email when your send a mail to our support email shenbagavalli.l@icloud.com. We will not share your email with any third party services nor will we use your email for commercial purposes. 
 
 **Log Data**
 
