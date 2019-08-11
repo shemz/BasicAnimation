@@ -22,7 +22,7 @@ I do not collect log data through our app. In case of a crash, information such 
 
 **Security**
 
-I value your trust in providing me your Personal Information, thus I am striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+I do not collect personal information knowingly in our application. If I receive any personal information in our support email, I will immediately delete it from the support email. 
 
 **Children’s Privacy**
 
